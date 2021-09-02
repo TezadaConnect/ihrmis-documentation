@@ -1,5 +1,5 @@
 # SOFTWARE ARCHITECTURE
-
+This is a the top overview documentation about the hrmis software architecture and design principles. Information written in here are also subject of change for future changes
 ## INITIAL SETUP OVERVIEW
 ![design](./assets/design.png)
 
