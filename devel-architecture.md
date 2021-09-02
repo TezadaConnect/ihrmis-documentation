@@ -1,7 +1,7 @@
 # SOFTWARE ARCHITECTURE
 
 ## DATABASE TO API TO APPLICATION
-![design]{./assets/design.png}
+![design](./assets/design.png)
 
 ## FRONT-END REACT JS
 React dont use any software design pattern principles available (mvc, mvvm etc.). It introduce a component based architecture and follows the one page web application development.
