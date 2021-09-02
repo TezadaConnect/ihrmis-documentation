@@ -15,7 +15,7 @@ React dont use any software design pattern principles available (mvc, mvvm etc.)
 		- **modules**: Folder for page components such as plantilla, library. dashboard etc. 
 		- **App.js**: Every main components resides here to form the layout of a single page web application. 
 		- **index.js**: Here we call the App.js for display.
-	- **package.json**
+	- **package.json**: Configuration file for react (app configs, dependencies, framework etc.)
 - **VARIABLE, FUNCTION, AND CLASSES**	
 	- **Functions**: Function can be used as a components or methods,
 		- Function as components follows pascalcase naming convention
