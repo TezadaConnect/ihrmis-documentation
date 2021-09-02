@@ -20,7 +20,7 @@ React dont use any software design pattern principles available (mvc, mvvm etc.)
 	- **Functions**: Function can be used as a components or methods,
 		- Function as components follows pascalcase naming convention
 		- Function as method uses camelcase naming convention
-	- **Classes**: Most of the time function will be greatly use due hooks ( React new feature ) are not applicable in classes which this hooks has big advantage in state managemet. It uses a pascalcase naming convention
+	- **Classes**: Most of the time function will be greatly use due hooks ( React new feature ) are not applicable in classes which this hooks has big advantage in state managemet. Classes uses pascalcase naming convention
 	- **Variables**: should always use camelcase naming convention for code readability recommended for javascript programming.
 ## BACK-END LARAVEL
 - **TBA**
