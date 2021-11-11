@@ -8,7 +8,7 @@ This rough estimation of time range is based in development perspective only.
 ### ESTIMATED TIMELINE DESIGN FOR BACKEND RANGE 1
 - Back-end api endpoint range 1 day
 
-### CONNECTION BETWEEN THE COMPLEX 
+### CONNECTION BETWEEN FE AND BE
 - Connectivity for reading will be half a day 
 - Connectivity for Form submittion will range 1-2 days
 - Complex and large form will range 1-5 days depending to revisions between backend - frontend for compatibility
